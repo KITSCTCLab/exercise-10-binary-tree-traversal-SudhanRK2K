@@ -13,7 +13,7 @@ def insert(root, new_value) -> BinaryTreeNode:
         """
     # Write your code here
     if self.data:
-        if data<self.dat
+        if data<self
         
 
 
